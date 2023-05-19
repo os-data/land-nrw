@@ -176,7 +176,7 @@
     {
       "name": "nrw-enriched",
       "format": "csv",
-      "path": "https://storage.openspending.org/nrw-enriched.csv",
+      "path": "https://storage.openspending.org/land-nrw/nrw-enriched.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 9986201,
       "dialect": {
